@@ -8,3 +8,8 @@ public class GreaterLessThan {
     System.out.println(creditsToGraduate < creditsAfterSeminar);
 	}
 }
+
+
+output:
+false
+true
